@@ -1,0 +1,21 @@
+.block{
+    background: red;
+    height: 200px;
+    width: 400px;
+    border: 10px solid blue;
+    border-style: double;
+    border-radius: 19px 50px 1px 50px;
+    opacity: 0.9;
+    margin: 100px;
+    padding: 20px;
+    display: block;
+
+}
+body{
+    height: 100%;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+}
